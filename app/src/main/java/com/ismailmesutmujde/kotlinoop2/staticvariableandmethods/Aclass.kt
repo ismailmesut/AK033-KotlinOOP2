@@ -1,4 +1,4 @@
-package com.ismailmesutmujde.kotlinoop2
+package com.ismailmesutmujde.kotlinoop2.staticvariableandmethods
 
 class Aclass {
 

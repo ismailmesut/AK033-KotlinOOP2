@@ -1,5 +1,6 @@
-package com.ismailmesutmujde.kotlinoop2
+package com.ismailmesutmujde.kotlinoop2.constructor
 
+import com.ismailmesutmujde.kotlinoop2.constructor.Person
 import java.util.Scanner
 
 fun main() {

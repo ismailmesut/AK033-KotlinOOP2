@@ -1,4 +1,6 @@
-package com.ismailmesutmujde.kotlinoop2
+package com.ismailmesutmujde.kotlinoop2.staticvariableandmethods
+
+import com.ismailmesutmujde.kotlinoop2.staticvariableandmethods.Aclass
 
 fun main() {
 
